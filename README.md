@@ -28,6 +28,6 @@
 
 ## Microsoft
 
-![Microsoft logo](assets/Microsoft.png)
+![Microsoft logo](assets/Microsoft.jpeg)
 
 [Microsoft Certification Transcript](https://learn.microsoft.com/en-us/users/rramoscabral/transcript/vpm3qaxezx36ymr)
