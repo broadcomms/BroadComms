@@ -22,8 +22,6 @@
 
 </div>
 
-
-<br><br>
 ## Certifications
 <div align="center">
 
