@@ -20,14 +20,10 @@
 
 # Certifications
 
-## CompTIA
+<img src="assets/CompTIA.png" alt="drawing" width="200"/>
 
-![CompTIA logo](assets/CompTIA.png)
+[CompTIA Certification Transcript](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=8BLN2ZH2EB11129T)
 
-[CompTIA Certification Transcript](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=4XWF8EE2M1Q11S5Q)
+<img src="assets/Microsoft.jpeg" alt="drawing" width="200"/>
 
-## Microsoft
-
-![Microsoft logo](assets/Microsoft.jpeg)
-
-[Microsoft Certification Transcript](https://learn.microsoft.com/en-us/users/rramoscabral/transcript/vpm3qaxezx36ymr)
+[Microsoft Certification Transcript](https://learn.microsoft.com/en-ca/users/patrickndille/transcript/d9wrwtkn05nzeyj)
