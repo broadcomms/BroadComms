@@ -1,5 +1,7 @@
 ![gitbub_cover](assets/gitbub_cover.png)
 
+## Stats
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=broadcomms&theme=whatsapp-light2" alt="GitHub Streak"/>
@@ -7,6 +9,8 @@
 </div>
 
 <div align="center">
+
+## Objectives
 
 |Category                    |Data                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |:---------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -18,13 +22,16 @@
 
 </div>
 
+
+<br><br>
+## Certifications
 <div align="center">
 
 <img src="assets/CompTIA.png" alt="drawing" width="200"/>
 
 [CompTIA Certification Transcript](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=8BLN2ZH2EB11129T)
 
-
+<br>
 
 
 <img src="assets/Microsoft.jpeg" alt="drawing" width="200"/>
