@@ -22,12 +22,12 @@
 
 ## CompTIA
 
-![CompTIA logo](assets/imgs/CompTIA.png)
+![CompTIA logo](assets/CompTIA.png)
 
 [CompTIA Certification Transcript](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=4XWF8EE2M1Q11S5Q)
 
 ## Microsoft
 
-![Microsoft logo](assets/imgs/Microsot.png)
+![Microsoft logo](assets/Microsot.png)
 
 [Microsoft Certification Transcript](https://learn.microsoft.com/en-us/users/rramoscabral/transcript/vpm3qaxezx36ymr)
