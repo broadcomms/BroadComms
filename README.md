@@ -10,7 +10,7 @@
 </div>
 
 
-## Objectives
+## Technical Skills
 <div align="center">
 
 |Category                    |Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                       |
