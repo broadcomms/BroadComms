@@ -1,8 +1,5 @@
 ![gitbub_cover](assets/gitbub_cover.png)
-<p align>
-Technical professional in Information Technology, Computer Science, Consulting, Development and Projects with hands-on experience working on Microsoft Azure, Windows Server & Client, Security technologies, Java and Python programming.
-  
-</p>
+
 
 ## Stats
 
