@@ -1,7 +1,7 @@
 ![gitbub_cover](assets/gitbub_cover.png)
 
 
-## Stats
+## Git Stats
 
 <div align="center">
   <a href="https://git.io/streak-stats">
