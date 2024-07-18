@@ -21,18 +21,3 @@
 
 </div>
 
-## Certifications
-<div align="center">
-
-<img src="assets/CompTIA.png" alt="drawing" width="200"/>
-
-[CompTIA Certification Transcript](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=8BLN2ZH2EB11129T)
-
-<br>
-
-
-<img src="assets/Microsoft.jpeg" alt="drawing" width="200"/>
-
-[Microsoft Certification Transcript](https://learn.microsoft.com/en-ca/users/patrickndille/transcript/d9wrwtkn05nzeyj)
-
-</div>
