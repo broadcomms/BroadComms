@@ -8,10 +8,10 @@
 </div>
 
 
-## Objectives
+
 <div align="center">
 
-|Category                    |Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|Objectives                    |Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |:---------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |Domain      | ![Information Technology](https://img.shields.io/badge/Information%20Technology-00427E?style=flat&logo=it&logoColor=white) ![Computer Science](https://img.shields.io/badge/Computer%20Science-6A1B9A?style=flat&logo=computerscience&logoColor=white)                                                                                                                                                                        |
 | Infrastructure         | ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)                                                                                       |
