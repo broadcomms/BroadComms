@@ -1,4 +1,4 @@
-![gitbub_cover](assets/gitbub_cover.png)
+
 
 #
 
